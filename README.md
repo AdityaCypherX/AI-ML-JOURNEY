@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">AI/ML Journey - Aditya Kumar Jha (AdityaCypherX)</h1>
-<h3 align="center">Documenting my roadmap from Python fundamentals to Generative AI and AI Engineering</h3>
+<h3 align="center">Documenting my roadmap from Python fundamentals to Data Scientist and AI Engineering</h3>
 
 ---
 
