@@ -12,7 +12,6 @@ n1, n2 = n2, n1
 print("After swapping:")
 print("First number:", n1)
 print("Second number:", n2)
-print("-" * 50)
 
 
 
@@ -27,7 +26,6 @@ n2 = temp
 print("After swapping:")
 print("First number:", n1)
 print("Second number:", n2)
-print("-" * 50)
 
 #Without Temp (Using + and -) (numeric only)
 n1 = int(input("Enter first number: "))
@@ -40,4 +38,3 @@ n1 = n1 - n2
 print("After swapping:")
 print("First number:", n1)
 print("Second number:", n2)
-print("-" * 50)
